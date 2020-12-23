@@ -9,25 +9,25 @@
 <body>
     <div class="container">
         <div class="row">
-            <nav class="navbar navbar-expand-lg navbar-dark bg-success">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-success">
                 <div class="container-fluid">
-                  <a class="navbar-brand" href="index.html">Calculator</a>
+                  <a class="navbar-brand" href="index.php">Calculator</a>
                   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                   </button>
                   <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav">
                       <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="addition.html">Addition</a>
+                        <a class="nav-link active" aria-current="page" href="addition.php">Addition</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="subtraction.html">Subtraction</a>
+                        <a class="nav-link" href="subtraction.php">Subtraction</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="multiplication.html">Multiplication</a>
+                        <a class="nav-link" href="multiplication.php">Multiplication</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="division.html" >Division</a>
+                        <a class="nav-link" href="division.php" >Division</a>
                       </li>
                     </ul>
                   </div>
